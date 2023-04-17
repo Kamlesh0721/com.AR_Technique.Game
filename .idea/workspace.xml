@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2159503-a201-42f5-95c7-f3ce89bdac71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.AR_Technique.game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SourceFile/BrownCar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SourceFile/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SourceFile/RedCar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SourceFile/WhiteCar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SourceFile/YellowCar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SourceFile/f1RacingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/gameConstraints.java" afterDir="false" />
+    <list default="true" id="d2159503-a201-42f5-95c7-f3ce89bdac71" name="Changes" comment="feat: add Basic Game Layout&#10;feat: add Car">
+      <change afterPath="$PROJECT_DIR$/src/SourceFile/road.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SourceFile/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SourceFile/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SourceFile/f1RacingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SourceFile/f1RacingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils/gameConstraints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/gameConstraints.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -51,15 +43,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Interview Preperation/com.AR_Technique.Game"
+    "last_opened_file_path": "D:/Interview Preperation/com.AR_Technique.Game/src/SourceFile",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="Cars" />
+      <recent name="SourceFile" />
       <recent name="Utils" />
+      <recent name="Cars" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Interview Preperation\com.AR_Technique.Game\src\SourceFile" />
       <recent name="D:\Interview Preperation\com.c4coding.game\src\SourceFile" />
       <recent name="D:\Interview Preperation\com.c4coding.game\src" />
       <recent name="D:\Interview Preperation\com.c4coding.game\src\Base" />
@@ -71,7 +68,7 @@
       <module name="com.AR_Technique.game" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SourceFile.*" />
+          <option name="PATTERN" value="Utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,7 +81,7 @@
       <module name="com.AR_Technique.game" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SourceFile.*" />
+          <option name="PATTERN" value="Utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,7 +94,7 @@
       <module name="com.AR_Technique.game" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SourceFile.*" />
+          <option name="PATTERN" value="Utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +119,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681446556275</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: add Basic Game Layout&#10;feat: add Car">
+      <created>1681593719658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681593719658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add Basic Game Layout&#10;feat: add Car" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add Basic Game Layout&#10;feat: add Car" />
   </component>
 </project>
